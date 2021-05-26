@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "All About Cayla Perez!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here we will talk about...
+- My Background
+- Where I am right now
+- What I'm gonna do!
