@@ -1,7 +1,7 @@
 ---
-title: "My Background"
-date: 2021-05-26
+title: "My Accomplishments"
+date: 2021-05-28
 ---
- I was born October 14, 2003 in Edison, NJ. I live in East Brunswick, NJ. I still live there and have attended Lawrence Brook Elementary School, Hammarskjold Middle School, Churchill Junior High School, and EBHS!
+ I have a 3 side hustles for money, I am going to attend Stevens, and I can knit!
 ---
 
