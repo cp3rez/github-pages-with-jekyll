@@ -3,6 +3,6 @@ title: "My Accomplishments"
 date: 2021-05-28
 ---
  I have a 3 side hustles for money, I am going to attend Stevens, and I can knit!
- ![knit](https://user-images.githubusercontent.com/84187018/119987248-d1262300-bf92-11eb-8400-39abe26f92d1.jpg)
+![IMG_1195](https://user-images.githubusercontent.com/84187018/119989319-0895cf00-bf95-11eb-8c12-d5c681f32f0b.JPG)
 ---
 
